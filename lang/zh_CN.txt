@@ -5639,7 +5639,7 @@ tile.barrelpipe.name=Pipe
 
 
 death.attack.meteor=%1$s was hitted by a space rock!
-death.attack.meteor.player=%1$s walked into a space rock whilst fighting %2$s
+death.attack.meteor.player=%1$s 进入陨石攻击范围 %2$s
 
 MeteorSummoner.incomingMeteor=你召唤了一颗流星！
 item.staffwand.name=员工魔杖
@@ -5736,7 +5736,7 @@ lotrta.faction.title.HaradJungle=哈拉德丛林
     	
 lotrta.faction.title.WindMountains=风之山脉
 lotrta.faction.title.LastDesert=最后的沙漠
-lotrta.faction.title.Blacklock=黑发
+lotrta.faction.title.Blacklock=黑发矮人领
 lotrta.faction.title.Arthedain=阿赛丹
 lotrta.faction.title.Cardolan=卡多兰
 lotrta.faction.title.Shire=夏尔
@@ -5851,7 +5851,7 @@ lotr.faction.unknown.subtitle=（未完成）
 lotr.faction.unknownistari.name=伊什塔尔
 lotr.faction.unknownistari.subtitle=（未完成）
 tile.territory_shrine.name=黑胡奥恩的爪牙(未完成)
-item.samwand.name=部下
+item.samwand.name=部将
 lotr.title.Drunkard=酒鬼
 lotr.title.Hooligan=流氓
 lotr.title.Alcoholic=酒精
