@@ -5728,6 +5728,7 @@ lotrta.faction.title.AngmarSwamp=Angmar
 lotrta.faction.title.Gundabad=Gundabad
 lotrta.faction.title.Rhudaur=Rhudaur
 lotrta.faction.title.Logathrim=Logathrim
+lotrta.faction.title.nuriags=Nûriags
 lotrta.faction.title.Rhun=Rhûn
 lotrta.faction.title.easterling=Easterling
     	
@@ -6046,6 +6047,7 @@ item.armor_boromir_helmet.name=Boromir's Helmet
 
 tile.blockicon.name=Icon Placer Staff
 lotr.gui.map.widget.HOME=Special Markers
+
 lotrta.territory.unclaimable.name=Unclaimable
 lotrta.territory.forodwaithborder.name=Forodwaith Bordor
 lotrta.territory.farnorthforlindon.name=Far North Forlindon
@@ -6147,7 +6149,7 @@ lotrta.territory.westernaradigrasslands.name=Western Aradi Grass Lands
 lotrta.territory.northharadmountains.name=North Harad Mountains
 lotrta.territory.southwesternhalfdesert.name=Southwestern Half Desert
 lotrta.territory.southerngreatdesert.name=Southern Great Desert
-lotrta.territory.westerngulfofharad.name=Western Gulf of Harad
+lotrta.territory.westernguldofharad.name=Western Gulf of Harad
 lotrta.territory.centralgulfofharad.name=Central Gulf of Harad
 lotrta.territory.westerngulfofharad.name=Western Gulf of Harad
 lotrta.territory.easterngreatdesert.name=Eastern Great Desert
