@@ -1,5 +1,5 @@
-Who are you?
-#, you may not set foot in Moriquendi!
+你是谁?
+#, 你不是黑暗精灵那些蠢货!
 You breathe so loudly I could have shot you in the dark.
 You are unwelcome in our lands.
 Your presence is unwelcome here.
