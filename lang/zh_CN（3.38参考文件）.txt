@@ -1,4 +1,4 @@
-commands.lotrfa.ISTRReload.usage=/ISTRReload
+    commands.lotrfa.ISTRReload.usage=/ISTRReload
 commands.lotrfa.ISTRReload.succes=重新加载 %s 中的所有 ISTR 文件已完成
 death.attack.flyIntoWall=%1$s 经验动能
 item.scanner_scanner.name=结构扫描仪
@@ -5476,21 +5476,21 @@ item.bluedwarvesmithril_leggings.name=蓝色山脉镶秘银矮人护腿
 item.bluedwarvesmithril_boots.name=蓝色山脉矮人镶秘银矮人靴子
 
 lotr.biome.forodwaithborder.name=Forodwaith
-lotr.structure.anduinmensmith.name=Anduin-Man Smith
-lotr.structure.balchothhouse.name=Balchoth House
+lotr.structure.anduinmensmith.name=安度因人类小屋
+lotr.structure.balchothhouse.name=巴尔寇斯人的房子
 lotr.structure.balchothsmith.name=Balchoth Smith
 lotr.structure.balchothfarm.name=Balchoth Farm
 lotr.structure.balchothwarcamp.name=Balchoth Torture
 lotr.structure..name=
 
-entity.lotr.red_dwarfcrossbow.name=Orocarni Crossbower
-entity.lotr.stonefootscrossbow.name=Stonefoots Crossbower
-entity.lotr.blacklockscrossbow.name=Blacklocks Crossbower
-entity.lotr.firebeardscrossbow.name=Firebeards Crossbower
-entity.lotr.ironhillscrossbow.name=Iron Hills Crossbower
+entity.lotr.red_dwarfcrossbow.name=红色山脉矮人弩
+entity.lotr.stonefootscrossbow.name=石足矮人弩
+entity.lotr.blacklockscrossbow.name=黑发弩
+entity.lotr.firebeardscrossbow.name=火须矮人弩
+entity.lotr.ironhillscrossbow.name=铁丘陵弩
 item.cardolansanimal.name=卡多兰马铠
-item.lotr:banner.BANNER_GILGALAD.name=Banner of Gil-galad
-item.garlicbread.name=Garlic Bread
+item.lotr:banner.BANNER_GILGALAD.name=吉尔加拉德的旗帜
+item.garlicbread.name=大蒜盒子
 item.rohan_pike.name=洛汗重矛
 
 
