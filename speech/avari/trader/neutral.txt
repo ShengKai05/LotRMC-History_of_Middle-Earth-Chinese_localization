@@ -1,10 +1,10 @@
-If you wish to trade, you must prove yourself amongst our people.
-I only offer the crafts of the Elves to those we can trust.
-If you seek to trade, #, I suggest you prove your worth.
-Are you Elf-friend, #?
-I shall not tarry long in this land.
-Prove your allegiance to the Elves of Moriquendi, and then I may trade with you.
-My mind tells me to trade with you, but my heart does not yet trust you, #.
-You are not yet a friend of the Elves of Moriquendi.
-Do more for us and then I shall trade with you.
-I do not trust any stranger that I meet. You need to prove yourself to my kin first.
+如果你想交易，你必须在我们的人民中证明自己。
+我只把精灵的工艺品提供给我们可以信任的人。
+如果你想交易，#，我建议你证明自己的价值。
+你是精灵的朋友吗，#？
+我不会在这片土地上逗留太久。
+证明你对墨瑞昆迪精灵的忠诚，然后我就可以和你交易了。
+我的思想告诉我要和你交易，但我的心还不信任你，#。
+你还不是墨瑞昆迪的朋友。
+为我们做更多的事，然后我会和你交易。
+我不相信我遇到的任何陌生人。你需要先向我的亲族证明自己。
