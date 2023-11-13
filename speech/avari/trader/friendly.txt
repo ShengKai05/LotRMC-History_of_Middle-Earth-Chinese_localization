@@ -1,8 +1,8 @@
-Greetings from the land of Moriquendi, #!
-The treasures of Moriquendi may be bought for silver coins.
-If you desire Elven crafts, I could exchange something for silver coins.
-Do you wish to trade, #?
-Greetings, #. Perhaps you have something to trade?
-I am a Elf of the folk of the Moriquendi.
-I bring you the craftwork of the Elves of Moriquendi!
-Mae govannen, #! Do you wish to trade with me?
+来自阿瓦瑞的问候，#！
+墨瑞昆迪的珍宝可以用银币买到。
+如果你想要精灵工艺品，我可以用一些东西换银币。
+你想交易吗，#？
+向你致意，#。也许你有交易的东西？
+我是墨瑞昆迪的精灵。
+我给你带来莫里昆迪精灵的手工艺品！
+Mae govannen，#！你想和我交易吗？
