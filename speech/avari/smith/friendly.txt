@@ -1,8 +1,8 @@
-Greetings, #. What can I forge for you?
-The smith-skill of my kin is amongst the greatest in these lands!
-I have many mighty weapons that I can offer you!
-What do you need, mellon-nin?
-What can I get you, #? 
-The foes of our kin shall tremble beneath the mighty blades that I forge!
-I am always in need of more metals for my smith-work. I will reward you if you bring me some.
-I have learnt much of the skills of forging and smithing in my thousands of years of walking in this world.
+像你致敬，#。我能为你锻造什么？
+我家的铁匠技艺是这片土地上最厉害的！
+我有很多强大的武器可以提供给你！
+mellon-nin，你需要什么?
+我能给你什么，#？
+我们亲属的敌人将在我锻造的强大刀片下颤抖！
+我的铁匠工作总是需要更多的金属。如果你给我带一些，我会奖励你的。
+在这个世界上行走的数千年中，我学到了很多锻造和锻造的技能。
