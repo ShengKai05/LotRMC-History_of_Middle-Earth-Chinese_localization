@@ -1,14 +1,14 @@
-Who are you?
-#, you may not set foot in Eregion!
-You breathe so loudly I could have shot you in the dark.
-You are unwelcome in our lands.
-Your presence is unwelcome here.
-You are no Elf-friend, #!
-The Enemy has no hold over Eregion!
-You may not be here, #!
-Death to the foes of the Elves!
-Who brings to us this token of doom?
-Begone, friend of the enemy!
-You bring great corruption here, #. You can go no further.
-You will take no elves more! Hostile creature! Go back to the shadow!
-You want to start a war in the avari realms?
+你是谁?
+#, 你不该踏上埃瑞吉安!
+你的呼吸声太大了，我本可以在黑暗中射死你。
+你在我们的土地上是不受欢迎的。
+你在这里不受欢迎。
+你不是精灵的朋友，#！
+敌人无法控制埃瑞吉安！
+你可能不在这里，#！
+精灵的敌人死定了！
+谁给我们带来了这种厄运的象征？
+开始吧，敌人的朋友！
+你在这里带来了巨大的腐败，#。你不能再往前走了。
+你再也不会带走精灵了！大敌！回到阴影里去！
+你想在埃瑞吉安王国发动战争吗？
