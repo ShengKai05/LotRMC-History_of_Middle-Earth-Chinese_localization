@@ -1,16 +1,16 @@
-Do you have any silver coins, friend?
-My pockets are overflowing with precious minerals!
-Ripe meat off the bone! I'd pay a hefty sum of silver for some of that...
-Have you any ale, #?
-Are you willing to trade, #?
-I'd pay handsomely for a good drink!
-By my beard, I'm starving!
-Desire you to trade, #?
-I have many precious minerals to offer you.
-We Dwarves enjoy a nice cut of juicy meat!
-By my beard, I get hungry down here in the mines!
-I'd give all of my gold just for a good old pint of Dwarven ale right now!
-You're a bit tall for these mines, aren't you, #?
-Good day, #! Or is it night? I'm not sure. I've been in these mines for an eternity! Ha! Ha!
-Greetings, #! Do you wish to trade with me? I have many types of metals that will satisfy your desires.
-By my beard, this is one deep mine.
+朋友, 有银币么? 
+我的口袋装满了珍贵的矿石! 
+大块的剔骨烤肉! 我愿意为此付一大笔钱……
+#, 有麦芽酒吗? 
+#, 你想来贸易吗? 
+我买好喝的东西时从不抠门. 
+我的胡子啊, 我要饿死了! 
+#, 你想要做买卖? 
+我会给你提供很多宝贵的矿物. 
+我们矮人喜欢多汁的肉片! 
+我的胡子啊, 我饿得要命! 
+我愿意为了一杯上好的陈酿矮人麦芽酒付出我所有的金子! 
+#, 这矿井对你有些矮, 不是吗? 
+#, 早上好! 或是晚上好? 我不确定. 我一直在矿井下! 哈哈! 
+#, 你好! 想跟我做买卖吗? 我金属矿物管够, 包你满意. 
+我的胡子啊! 这矿井真深. 

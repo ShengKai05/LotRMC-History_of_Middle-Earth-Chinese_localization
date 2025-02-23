@@ -1,10 +1,10 @@
-A Dwarf does not just offer to trade his wealth with any stranger who comes along!
-If you want to trade, #, you'll need to do some more to prove yourself!
-The wealth of the Dwarves is surpassed by no other race, #!
-You'll need to earn yourself a bit of a reputation before we can trade, #!
-These hills are full of riches.
-We Dwarves don't simply trade with any stranger that passes by!
-The smith skill of my kin is unmatched!
-You wish to trade with me? You'll have to prove your standing amongst my kin first!
-Sorry, #! I don't trade with strangers.
-We Dwarves are great miners! Our shafts and holes reach down to the very depths of the Earth!
+矮人不与外人做买卖! 
+#, 你要是想做买卖, 就得多干点证明自己的事! 
+#, 矮人的财富超过其他的所有种族! 
+#, 在与我们做买卖前, 你得先有足够的声望! 
+山里都是些好东西. 
+我们矮人从不随便与过路的陌生人做买卖! 
+我族人的铁匠技艺无与伦比! 
+你想和我做买卖? 你必须先证明你站在我的族人这边! 
+#, 抱歉! 我们不与陌生人做买卖. 
+我们矮人矿工伟大无比! 我们的矿井和矿坑能直达地底! 

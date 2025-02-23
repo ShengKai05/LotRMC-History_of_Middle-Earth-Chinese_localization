@@ -1,15 +1,15 @@
-As you can see, #, my feet ache from this heavy load. Care you to buy something?
-We Dwarves do not usually trade with Men, but you are an exception, #.
-Ale, armour, weapons - you want it, it's yours, my friend! As long as you have enough coins...
-I come from the mighty strongholds of the Orocarni, #. No other Dwarves boast riches quite like ours.
-I am travelling the land in search of wealth - perhaps you are doing the same, #?
-Give me some coins, #, and I shall be a very happy merchant indeed!
-Greetings, #! Do you wish to buy some goods from me?
-I bring great treasures from the Red Mountains! You can have them... for a certain price!
-Do you wish to trade with me, #? I have several items which might be of interest to you.
-I will sell you anything for a fair price!
-Do you want to trade with me, #? For a few dozen silver coins you can enjoy the craftwork of the Dwarves of The Orocarni!
-The Northmen of Dale make a delicious waybread. Cram, they name it, and it can be yours for just a few coins!
-You have not lived until you have tasted cram, #. Fortunately, I have some right here!
-I can see your hunger in your eyes, #. Are you after some of that sweet cram-bread?
-We Dwarves of the Red Mountains are unequalled in our craftsmanship.
+正如你所见, #, 这货物重得让我脚疼. 你愿意买点什么吗? 
+#, 矮人不常与人类做生意, 但你例外. 
+麦芽酒、铠甲、武器——只要你有足够多的银币, 你想要啥就拿走……
+#, 其他矮人都没我们有钱. 
+我周游世界寻找财富——#, 可能你在做相同的事? 
+#, 给我些银币, 让我这个商人乐一乐! 
+#, 你好! 想买我的货吗? 
+我带来很多宝贝! 给我钱, 他们就归你! 
+#, 想做买卖吗? 我有几件商品你可能会感兴趣. 
+我卖给你的都是平价商品! 
+你想和我交易吗, #? 只要几十个银币, 你就可以享受到矮人的工艺品! 
+戴尔北边的人制作了一种美味的旅行面包. 它叫克拉姆, 只需几个硬币就可以买到! 
+没吃过克拉姆简直是白活! #, 幸运的是我带了一些! 
+我看到你有多饿啦, #! 来点好吃的克拉姆! 
+我们矮人的手艺无人能比! 
